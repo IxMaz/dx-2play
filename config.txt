@@ -1,6 +1,6 @@
 token= NTI3NDY0MzI3OTA1ODA0Mjg5.DwVDGA.yKtNUXRU1kpxzJ1j8Pj6P49poWw
-owner= 510520286488035339 
-prefix= 2
+owner= 333140974865874944 
+prefix= 8
 game= Type 2help
 stayinchannel=true 
 songinstatus=false
