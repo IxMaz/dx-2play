@@ -1,6 +1,6 @@
-token= NTI3NDY0MzI3OTA1ODA0Mjg5.DwVDGA.yKtNUXRU1kpxzJ1j8Pj6P49poWw
-owner= 333140974865874944 
-prefix= 8
-game= Type 2help
+token= NTMwMzk0MTk4NDI0NDIwMzYz.Dw-v5g.vAlADlMf8mD5I_bI6tKBYQXMphY
+owner= 333140974865874944
+prefix= 5
+game= Type 5help
 stayinchannel=true 
 songinstatus=false
